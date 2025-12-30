@@ -122,7 +122,7 @@
   </div>
 
   <script>
-    const correctPassword = "1234"; // غير الباسورد من هنا
+    const correctPassword = "13102022"; // غير الباسورد من هنا
 
     function checkPassword() {
       const input = document.getElementById("password").value;
@@ -130,7 +130,7 @@
         document.getElementById("login").style.display = "none";
         document.getElementById("msg").style.display = "block";
       } else {
-        alert("الباسورد غلط 😅");
+        alert("اكتبي تاريح ارتبطنا صح يروح امك 😅");
       }
     }
   </script>
